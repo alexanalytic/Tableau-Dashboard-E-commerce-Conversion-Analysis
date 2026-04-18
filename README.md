@@ -28,7 +28,7 @@ The final deliverable is an interactive Tableau dashboard designed for business 
 
 ## 📊 Dataset Description
 
-- Source: UCI Online Shoppers Purchasing Intention Dataset  
+- Source: [UCI Online Shoppers Purchasing Intention Dataset](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
 - ~12,000 user sessions  
 - Each row represents a single user session  
 
