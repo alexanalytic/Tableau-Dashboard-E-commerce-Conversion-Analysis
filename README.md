@@ -154,7 +154,7 @@ Align marketing spend and operational readiness with high-conversion periods.
 
 ## 📎 Live Dashboard
 
-[View Tableau Dashboard](PASTE_YOUR_TABLEAU_LINK_HERE)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/alex.oliynyk/viz/E-commerceConversionAnalysisDashboard_17764759399110/ConversionAnalyticsDashboardOnlineShoppers)
 
 ---
 
