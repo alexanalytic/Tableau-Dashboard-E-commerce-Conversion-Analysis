@@ -96,8 +96,10 @@ Focus on improving conversion efficiency rather than just increasing traffic.
 **Insight:**
 There is a strong positive relationship between engagement and conversion rate.
 
+Each data point represents aggregated monthly performance.
+
 - Higher engagement → higher likelihood of purchase  
-- Clear upward trend confirms correlation  
+- Clear upward trend confirms correlation   
 
 **Additional Observations:**
 - February is a low-performance outlier  
