@@ -158,11 +158,13 @@ Align marketing spend and operational readiness with high-conversion periods.
 
 ---
 
-## 💼 Why This Project Matters
+## 🧠 Skills Demonstrated
 
 This project demonstrates the ability to:
 
-- Translate data into actionable business insights  
-- Analyze user behavior and conversion drivers  
-- Build clean, stakeholder-ready dashboards  
-- Communicate findings clearly and effectively  
+- SQL & data preparation
+- Tableau dashboard design
+- Conversion & funnel analysis
+- User segmentation
+- Business insight communication
+- Stakeholder-ready reporting
